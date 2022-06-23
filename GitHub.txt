@@ -4,7 +4,7 @@ JSON
  5. Клонировать репозиторий JSON на локальный компьютер. click "code" button adn in pop up window copy URL https://github.com/demdivan/JSON.git 
  6. Внутри локального JSON создать файл “new.json”. User is in the JSON foulder C:\Users\demdivan\JSON. Run bush console. touch new.json
  7. Добавить файл под гит. git add new.json
- 8. Закоммитить файл. git commit -m ""
+ 8. Закоммитить файл. git commit -m "комментарий"
  9. Отправить файл на внешний GitHub репозиторий. git push
  10. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON. cat >> new.json
  11. Отправить изменения на внешний репозиторий. git add . git commit -m""   git push
