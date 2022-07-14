@@ -1,4 +1,4 @@
-JSON
+JSON.
  1. Создать внешний репозиторий c названием JSON.
  Go to https://github.com/ - click on the "plus icon" on the right- on the dropdown menu click "new repository"- Type on text area repository name "JSON"- scroll down and click button "create repository" 
  2. Клонировать репозиторий JSON на локальный компьютер.
